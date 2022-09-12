@@ -1,0 +1,37 @@
+#sidebar {
+    background-color: #570a57;
+    font-family: 'Akshar', sans-serif;
+    min-height: 100vh;
+}
+
+#pp {
+    width: 120px;
+    height: 120px;
+}
+
+#text-nama {
+    color: #f806cc;
+}
+
+#konten {
+    background-color: #2e0249;
+    font-family: 'Akshar', sans-serif;
+}
+
+#menu > a {
+    text-decoration: none;
+}
+
+#slot > h3 {
+ color: #f806cc;   
+}
+
+#a1 {
+    width: 350px;
+    height: 240px;
+}
+
+#wrapper {
+    /*height : 500px;
+    background-color : aqua;*/
+}
